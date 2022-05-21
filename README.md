@@ -2,72 +2,42 @@
 > Sistema desenvolvido para aprendizado na graduação
 > Sistema de delivery para padarias. No sistema o cliente faz o pedido de seu pão pela internet, com notificações para o cliente e para o estabelecimento.
 
-![](header.png)
+![](previews.png)
 
-## Installation
+## Ferramentas
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
+PHP:
 
 ```sh
-edit autoexec.bat
+7.0
 ```
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+MySQL:
 
 ```sh
-make install
-npm test
+5.1.3
 ```
 
-## Release History
+JavaScript:
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+```sh
+ECMAScript 5
+```
 
-## Meta
+Bootstrap:
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+```sh
+4.0
+```
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+CSS:
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+```sh
+3.0
+```
 
-## Contributing
+HTML:
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+```sh
+5.0
+```
